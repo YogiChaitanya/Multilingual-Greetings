@@ -1,0 +1,17 @@
+.btn {
+  background-color: #ffffff;
+  height: 40px;
+  width: 100px;
+  color: #db1c48;
+  font-weight: bold;
+
+  border: 1px solid #db1c48;
+  border-radius: 20px;
+
+  margin: 10px;
+}
+
+.active-btn {
+  background-color: #db1c48;
+  color: #ffffff;
+}

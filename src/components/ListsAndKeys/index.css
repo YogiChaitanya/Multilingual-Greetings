@@ -1,0 +1,39 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  background-color: #ffffff;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin-top: 50px;
+}
+
+.heading1 {
+  font-size: 40px;
+  font-family: 'Roboto';
+  color: #1e293b;
+}
+.language-btn-container {
+  list-style-type: none;
+  padding: 0px;
+
+  display: flex;
+  flex-direction: row;
+
+  margin: 0px;
+}
+
+.greeting-container {
+  list-style-type: none;
+  padding: 0px;
+  width: 50%;
+  text-align: center;
+
+  margin-top: 50px;
+}
